@@ -390,8 +390,8 @@
                         <p>
                             Perumahan Graha Padalarang Indah <br>
                             Jln. safir 8 no 10<br>
-                            Bandung Barat <br><br>
-                            Jawa Barat<br>
+                            Bandung Barat <br>
+                            Jawa Barat<br><br>
                             <strong>Phone:</strong> +6289652251589<br>
                             <strong>Email:</strong> laresarianti23@gmail.com <br>
                         </p>
