@@ -419,8 +419,8 @@
                     <div class="col-lg-3 col-md-6 footer-links">
                         <h4> Social Networks</h4>
                         <div class="social-links mt-3">
-                            <a href="https://www.instagram.com/" class="instagram"><i class="bx bxl-instagram"></i></a>
-                            <a href="https://www.linkedin.com/feed/S" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+                            <a href="https://www.instagram.com/laresa.rr/" class="instagram"><i class="bx bxl-instagram"></i></a>
+                            <a href="https://www.linkedin.com/in/resa-rianti-aa0054217/" class="linkedin"><i class="bx bxl-linkedin"></i></a>
                         </div>
                     </div>
 
